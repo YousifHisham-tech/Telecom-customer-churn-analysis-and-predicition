@@ -4,18 +4,18 @@
 
 # Tools & Libraries Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Skitlearn 
+Python <br>
+Pandas <br>
+NumPy <br>
+Matplotlib <br>
+Seaborn <br>
+Skitlearn <br>
 
 # In this project, I performed:
 
-Data cleaning and preprocessing.
-Handling missing values.
-Exploratory data analysis (EDA).
-Data visualization.
-Correlation analysis.
-Identification of churn-related patterns.
+Data cleaning and preprocessing. <br>
+Handling missing values. <br>
+Exploratory data analysis (EDA). <br>
+Data visualization. <br>
+Correlation analysis. <br>
+Identification of churn-related patterns. <br>
