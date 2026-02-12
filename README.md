@@ -9,3 +9,13 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+Skitlearn 
+
+# In this project, I performed:
+
+Data cleaning and preprocessing.
+Handling missing values.
+Exploratory data analysis (EDA).
+Data visualization.
+Correlation analysis.
+Identification of churn-related patterns.
