@@ -19,3 +19,8 @@ Exploratory data analysis (EDA). <br>
 Data visualization. <br>
 Correlation analysis. <br>
 Identification of churn-related patterns. <br>
+
+# Future update 
+
+Analysis churn using powerBI <br>
+Organize the code again to be more readable <br>
